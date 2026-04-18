@@ -6,3 +6,4 @@ venv/
 deployenv/
 __pycache__/
 .ipynb_checkpoints/
+notebooks/models/
