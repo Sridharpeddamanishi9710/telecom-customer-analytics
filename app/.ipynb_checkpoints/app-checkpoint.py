@@ -71,11 +71,11 @@ elif choice == "Customer Segmentation":
 
     # Segment Meaning Mapping
     segment_meaning = {
-    0: "💰 High Value Customer",
-    1: "🆕 New Customer",
-    2: "⭐ Loyal Customer",
-    3: "⚠ At Risk Customer"
-}
+        0: "🆕 New Customer",
+        1: "⭐ Loyal Customer",
+        2: "⚠ At Risk Customer",
+        3: "💰 High Value Customer"
+    }
 
     if st.button("Find Segment"):
 
