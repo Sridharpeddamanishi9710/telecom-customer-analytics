@@ -5,7 +5,7 @@ An end-to-end Machine Learning web application for analyzing telecom customer be
 ---
 
 ## 🚀 Live Demo
-https://telecom-customer-analyticsgit-9710.streamlit.app/
+https://telecom-customer-analytics-sridhar.streamlit.app/
 
 ---
 
